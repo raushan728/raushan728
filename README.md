@@ -25,7 +25,7 @@
 <div align="center">
   <h3>The Stack</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=solana,rust,ts,nextjs,nodejs,postgres,docker,cpp,linux,git" />
+    <img src="https://skillicons.dev/icons?i=c,rust,ts,nextjs,nodejs,py,docker,cpp,ubuntu,git,kotlin" />
   </a>
 </div>
 
