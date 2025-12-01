@@ -26,7 +26,7 @@
   <h3>The Stack</h3>
   <a href="https://skillicons.dev">
     <!-- Visual Storytelling: Solana/Rust First -> Then Integration (TS/Next) -> Then Core Engineering (C++/Docker) -->
-    <img src="https://skillicons.dev/icons?i=c,rust,ts,nextjs,nodejs,blockchain,docker,cpp,linux,git" />
+    <img src="https://skillicons.dev/icons?i=c,rust,ts,nextjs,nodejs,py,docker,cpp,ubuntu,git" />
   </a>
 </div>
 
