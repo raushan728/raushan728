@@ -23,7 +23,7 @@
 <br />
 
 <div align="center">
-  <h3>The Stack</h3>
+  <h3>Core Stack</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,rust,ts,nextjs,nodejs,py,docker,cpp,ubuntu,git,kotlin" />
   </a>
