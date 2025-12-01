@@ -26,7 +26,6 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <!-- Reordered to prioritize Solana/Rust -->
     <img src="https://skillicons.dev/icons?i=solana,rust,ts,nextjs,react,nodejs,docker,linux,git,github,cpp,mongodb,postgres,graphql" />
   </a>
 </div>
@@ -37,7 +36,7 @@
 
 #### Blockchain & Solana
 *   **Smart Contract Development:** Proficient in writing secure programs using **Rust** and **Anchor Framework**.
-*   **Architecture:** Expertise in Account Account Models, PDA management, and Cross-Program Invocations (CPI).
+*   **Architecture:** Expertise in Account Models, PDA management, and Cross-Program Invocations (CPI).
 *   **DeFi Logic:** Experience with tokenomics, staking mechanisms, and payment protocols.
 *   **Integration:** Connecting on-chain logic with modern frontends using `@solana/web3.js`.
 
@@ -48,10 +47,10 @@
 
 <br />
 
+<!-- FIXED STATS SECTION -->
 <div align="center">
-  <!-- GitHub Stats - Dark Mode focused -->
-  <img src="https://github-readme-stats.vercel.app/api?username=raushan728&show_icons=true&theme=transparent&hide_border=true&title_color=9945FF&text_color=8b949e&icon_color=9945FF" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raushan728&layout=compact&theme=transparent&hide_border=true&title_color=9945FF&text_color=8b949e" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raushan728&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="Raushan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raushan728&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Raushan's Top Languages" />
 </div>
 
 <br />
