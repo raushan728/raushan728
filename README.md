@@ -4,7 +4,7 @@
 
   <p>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9945FF&center=true&vCenter=true&width=600&lines=Engineering+Trustless+Protocols+on+Solana;Architecting+High-Performance+dApps;Rust-Native+System+Design;End-to-End+Web3+Infrastructure" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=9945FF&center=true&vCenter=true&width=800&height=70&lines=Engineering+Trustless+Protocols+on+Solana;Architecting+High-Performance+dApps;Rust-Native+System+Design;End-to-End+Web3+Infrastructure" alt="Typing SVG" />
     </a>
   </p>
 </div>
@@ -25,7 +25,6 @@
 <div align="center">
   <h3>The Stack</h3>
   <a href="https://skillicons.dev">
-    <!-- Visual Storytelling: Solana/Rust First -> Then Integration (TS/Next) -> Then Core Engineering (C++/Docker) -->
     <img src="https://skillicons.dev/icons?i=solana,rust,ts,nextjs,nodejs,postgres,docker,cpp,linux,git" />
   </a>
 </div>
