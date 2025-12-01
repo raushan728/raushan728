@@ -46,13 +46,6 @@
 *   **Full Stack:** MERN Stack, Next.js, and TypeScript for production-grade interfaces.
 
 <br />
-
-<!-- FIXED STATS SECTION -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raushan728&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="Raushan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raushan728&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Raushan's Top Languages" />
-</div>
-
 <br />
 
 <div align="center">
