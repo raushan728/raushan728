@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Raushan Kumar</h1>
-  <h3>Backend Systems Engineer</h3>
+  <h3>Backend Systems Engineer </h3>
   <p>
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9945FF&center=true&vCenter=true&width=700&lines=Architecting+High-Performance+Backend+Systems;Rust+%7C+Solana+%7C+Protocol+Engineering;Building+Scalable+Web2+%26+Web3+Infrastructure" alt="Typing SVG" />
@@ -26,40 +26,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=rust,solidity,c,cpp,ts,nodejs,postgres,redis,docker,linux,python" />
   </a>
-</div>
-
-<br />
-
-<div align="center">
-  <h3>Core Expertise</h3>
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <b>Systems Programming</b><br/>
-        <sub>Rust • C/C++ • Memory Management<br/>Concurrency • Performance Optimization</sub>
-      </td>
-      <td align="center" width="33%">
-        <b>Web2 Backend</b><br/>
-        <sub>API Design • Microservices • PostgreSQL<br/>Redis Caching • Docker Infrastructure</sub>
-      </td>
-      <td align="center" width="33%">
-        <b>Web3 Backend</b><br/>
-        <sub>Solana Programs • Solidity Contracts<br/>Anchor Framework • RPC Infrastructure</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br />
-
-<div align="center">
-  <h3>System Design & Architecture</h3>
-  <p>
-    <b>Distributed Systems</b> — Protocol design, state management, consensus mechanisms<br/>
-    <b>Backend Infrastructure</b> — Scalable APIs, event-driven architecture, data pipelines<br/>
-    <b>Performance Engineering</b> — Load optimization, horizontal scaling, profiling<br/>
-    <b>Blockchain Development</b> — Smart contracts, on-chain programs, indexing services
-  </p>
 </div>
 
 <br />
