@@ -18,7 +18,7 @@
 <br />
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/raushan-kumar-807916390/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="www.linkedin.com/in/raushan-singh-807916390/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://twitter.com/Raushan_090">Twitter</a> &nbsp;·&nbsp;
   <a href="mailto:raushansinghrajpoot687@gmail.com">Email</a>
 </div>
