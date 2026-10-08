@@ -1,24 +1,5 @@
-<div align="center">
-  <h1>Raushan Kumar</h1>
-  <h3>Backend Systems Engineer</h3>
-  <p>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9945FF&center=true&vCenter=true&width=700&lines=Architecting+High-Performance+Backend+Systems;Rust+%7C+Solana+%7C+Protocol+Engineering;Building+Scalable+Web2+%26+Web3+Infrastructure" alt="Typing SVG" />
-    </a>
-  </p>
-</div>
+### Hello, I'm Raushan
 
-<br />
+I work mostly in Rust. I contribute to open source, including [The Rust programming language](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Araushan728+org%3Arust-lang&type=pullrequests) and projects under the [Solana Foundation](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Araushan728+org%3Asolana-foundation&type=pullrequests). You can see [all merged pull requests](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Araushan728&type=pullrequests) here. I'm interested in distributed systems.
 
-<div align="center">
-  <p>Memory is managed. Lifetimes are explicit. Bugs are compile-time.</p>
-  <p>That's the standard I hold my code to.</p>
-</div>
-
-<br />
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/raushan-singh-807916390/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://twitter.com/Raushan_090">Twitter</a> &nbsp;·&nbsp;
-  <a href="mailto:raushansinghrajpoot687@gmail.com">Email</a>
-</div>
+I'm currently looking for Rust roles. Feel free to contact me by email at `raushansinghrajpoot687@gmail.com`, on [LinkedIn](https://www.linkedin.com/in/raushan-singh-807916390/) or on [Twitter](https://twitter.com/Raushan_090).
